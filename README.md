@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashlalpotu11&label=Profile%20views&color=0e75b6&style=flat" alt="yashlalpotu11" /> </p>
 
-- 🔭 I’m currently working on [Wunderlist](https://yash-wunderlist.netlify.app/)
+- 🔭 I’m currently working on [VaaxIn](https://yash-vaccinefinder.netlify.app/) Project.
 
 - 🌱 I’m currently learning **React, Node.js, SQL**
 

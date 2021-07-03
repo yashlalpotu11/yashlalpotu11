@@ -1,5 +1,5 @@
 <div align="center">
-<img width="70%" height = "250px" src="https://wallpapercave.com/wp/wp2936933.jpg" alt="cover" />
+<img width="250px" height = "250px" src="https://media.giphy.com/media/vjgM9SCa7Jxhm/giphy.gif" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>

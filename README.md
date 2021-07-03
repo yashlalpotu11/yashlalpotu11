@@ -2,7 +2,7 @@
 <img width="200px" height = "200px" src="https://media.giphy.com/media/vjgM9SCa7Jxhm/giphy.gif" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=yashlalpotu11.yashlalpotu11) -->

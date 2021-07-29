@@ -40,12 +40,23 @@
 <a href= https://github.com/yashlalpotu11?tab=repositories&q=&type=&language=mongodb&sort= > <img width='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<!-- <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/𝗬𝗮𝘀𝗵-𝗟𝗮𝗹𝗽𝗼𝘁𝘂-92b4931b4'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://medium.com/@yashrlalpotu'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
 <a href = 'https://yashlalpotu.netlify.app/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 <a href = 'https://www.github.com/yashlalpotu11'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-
+ -->
+ 
+ 
+ <h2 align="left">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
+<p align="left">
+<a href="https://dev.to/yashlalpotu11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="yashlalpotu11" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/𝗬𝗮𝘀𝗵-𝗟𝗮𝗹𝗽𝗼𝘁𝘂-92b4931b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="𝗬𝗮𝘀𝗵-𝗟𝗮𝗹𝗽𝗼𝘁𝘂-92b4931b4" height="30" width="40" /></a>
+<a href="https://medium.com/@yashrlalpotu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yashrlalpotu" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/yashlalpotu30" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yashlalpotu30" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/yashlalpotu11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="yashlalpotu11" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/yashrlalpotu30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yashrlalpotu30" height="30" width="40" /></a>
+</p>
 
 <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
 <a href="https://github.com/yashlalpotu11">

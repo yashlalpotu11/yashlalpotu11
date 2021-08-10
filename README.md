@@ -21,7 +21,7 @@
 - 🔭 I’m currently working on [VaaxIn](https://yash-vaccinefinder.netlify.app/) Project.
 
 
-- 🌱 I’m currenly learning React JS, Node JS, SQL 
+- 🌱 I’m currently learning React JS, Node JS, SQL 
 
 - 👯 I’m looking to collaborate on Projects on React and MERN Stack 
 

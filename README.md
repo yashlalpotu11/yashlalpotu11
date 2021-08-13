@@ -18,7 +18,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on [VaaxIn](https://yash-vaccinefinder.netlify.app/) Project.
+- 🔭 I’m currently working on [VaxIn](https://yash-vaccinefinder.netlify.app/) Project.
 
 
 - 🌱 I’m currently learning React Native, React JS, Node JS, SQL 

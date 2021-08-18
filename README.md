@@ -74,7 +74,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashlalpotu11&show_icons=true&locale=en" alt="yashlalpotu11" /></p>
 
-<h1> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '70px' height = '70px'></h1>
+<h1> Some Programming Humors for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '70px' height = '70px'></h1>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=gruvbox)
  

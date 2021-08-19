@@ -78,6 +78,8 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=gruvbox)
  
+ 
+ [![YashLalpotus's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=yashlalpotu11&theme=xcode)](https://git.io/yashlalpotu11)
 
 
 <!-- <h1 align="center">Hello 👋, I'm Yash Lalpotu</h1>

@@ -1,5 +1,4 @@
 <div align="center">
-<!-- <img width="200px" height = "200px" src="https://media.giphy.com/media/vjgM9SCa7Jxhm/giphy.gif" alt="cover" /> -->
   <img src='https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif' width='460"' height='250"'>
 </div>
 

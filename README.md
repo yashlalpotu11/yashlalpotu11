@@ -2,7 +2,7 @@
   <img src='https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif' width='460"' height='250"'>
 </div>
 
-<h1> Hello < Developers/ > ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello < Developers/> ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=yashlalpotu11.yashlalpotu11) -->

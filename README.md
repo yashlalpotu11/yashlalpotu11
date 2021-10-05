@@ -5,7 +5,6 @@
 <h1> Hello < Developers/> ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=yashlalpotu11.yashlalpotu11) -->
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashlalpotu11&label=Profile%20views&color=0e75b6&style=flat" alt="yashlalpotu11" /> </p>
 
 </p>

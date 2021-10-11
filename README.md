@@ -19,7 +19,7 @@
 - 🔭 I’m currently working on [e-store] Project.
 
 
-- 🌱 I’m currently learning React Native, React JS, Node JS, SQL 
+- 🌱 I’m currently learning React Native, React JS, Node JS, MONGODB 
 
 - 👯 I’m looking to collaborate on Projects on React and MERN Stack 
 

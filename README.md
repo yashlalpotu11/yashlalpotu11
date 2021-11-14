@@ -4,10 +4,6 @@
 
 <h1> Hello < Developers/> ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
-
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashlalpotu11&label=Profile%20views&color=0e75b6&style=flat" alt="yashlalpotu11" /> </p>
-
-</p>
 <div size='20px'> Hello! My name is Yash. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 

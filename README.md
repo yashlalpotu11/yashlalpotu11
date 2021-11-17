@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on [MERN CRUD] Project.
 
 
-- 🌱 I’m currently learning React JS, Node JS, MONGODB 
+- 🌱 I’m currently learning React JS, EXPRESS JS, MONGODB 
 
 - 👯 I’m looking to collaborate on Projects on React and MERN Stack 
 

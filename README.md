@@ -10,7 +10,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on [MERN CRUD] Project.
+- 🔭 I’m currently working on [MEMORY_BOOK] Project.
 
 
 - 🌱 I’m currently learning React JS, EXPRESS JS, MONGODB 

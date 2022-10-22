@@ -1,5 +1,9 @@
 ### Hi there, Yash Lalpotu👋
 
+[![Linkedin Badge](https://img.shields.io/badge/Yash-Lalpotu-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yash-lalpotu-92b4931b4/)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashlalpotu11&label=Profile%20views&color=0e75b6&style=flat" alt="yashlalpotu11" /> </p>
+
 ## Former SDE Intern <a href=""><img alt="" src="https://img.shields.io/badge/@Scriptbox-D83B01?style=for-the-badge" /></a> <a href=""><img alt="" src="https://img.shields.io/badge/@My Next Film-F7DF1E?style=for-the-badge" /></a>
 
 - 🌱 I’m currently learning NextJS 😉
